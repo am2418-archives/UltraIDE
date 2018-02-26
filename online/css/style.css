@@ -1,0 +1,25 @@
+body {
+    height: 100vh;
+    overflow: hidden;
+}
+textarea {
+    width: 50%;
+    height: 60vh;
+    display: inline-block;
+    float: left;
+}
+#language {
+    display: block;
+}
+#render {
+    width: 40%;
+    height: 60vh;
+    display: inline-block;
+    border: 1px solid gray;
+}
+button {
+    display: block;
+}
+#edits {
+    display: block;
+}
